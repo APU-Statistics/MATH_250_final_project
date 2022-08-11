@@ -1,0 +1,12 @@
+---
+title: "YOUR TITLE HERE"
+subtitle: ""
+author: "Group member names here"
+date: "(rough draft) due November 17, 11:59pm"
+output: 
+  pdf_document:
+    toc: true
+    number_sections: false
+    highlight: tango
+link-citations: yes
+---
